@@ -1,0 +1,14 @@
+programa
+{
+	funcao inicio ()
+	{
+		escreva ("Ola querido amigo...\n") 
+		escreva ("Me chamo Soturno...qual o seu nome?\n")
+		 cadeia nome 
+		 escreva ("Digite seu nome:")
+		 leia(nome)
+		 escreva ("\n\n\n\n")
+		 escreva ("Prazer em conhecer-lo  ",nome)
+		 escreva(" vamos juntos embarcar nessa jornada")
+	}
+}
