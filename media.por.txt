@@ -1,0 +1,18 @@
+programa 
+{
+	funcao inicio()
+	{
+		escreva ("Digite o primeiro numero")
+		real numeroUM
+		leia(numeroUM)
+		escreva("Digiteno segundo numero")
+		real numeroDOIS
+		leia(numeroDOIS)
+		escreva("Digite o terceiro numero")
+		real numeroTRES
+		leia(numeroTRES)
+		real media
+		 media= (numeroUM + numeroDOIS + numeroTRES) / 3
+		escreva ("sua média é",  media)
+	}	
+}
